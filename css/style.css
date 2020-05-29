@@ -1,0 +1,11 @@
+.container {
+  min-height: calc(100vh - 158px);
+}
+
+.bg-light {
+  background-color: #eee!important;
+}
+
+img {
+  width: 350px;
+}
